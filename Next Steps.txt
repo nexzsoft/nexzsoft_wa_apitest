@@ -1,0 +1,4 @@
+1. Signup -> Data to Store in DB
+2. Login -> Navigate to Dashboard Page and session active
+3. Dashboard Page -> Connect WhatsApp button to establish WhatsApp API Connect through Meta
+4. Dashboard Page -> Chat Window page
