@@ -20,9 +20,7 @@ function Hero() {
         </h1>
 
         <p>
-          Automate conversations, engage customers,
-          generate leads, and grow revenue through
-          WhatsApp, Instagram, Facebook, and more.
+          Transform customer engagement with AI-powered conversations across WhatsApp, Instagram, Facebook, and more—all in one platform that delivers exceptional customer experiences and drives measurable business growth.
         </p>
 
         <div className="hero-buttons">
