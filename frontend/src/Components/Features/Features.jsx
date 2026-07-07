@@ -61,8 +61,7 @@ function Features() {
           <div className="icon">🤖</div>
           <h3>AI Conversation Engine</h3>
           <p>
-            Intelligent conversations powered by
-            advanced AI models.
+            Enable intelligent, context-aware conversations with advanced AI that understands intent, delivers accurate, personalized responses, and engages customers naturally.
           </p>
         </div>
 
@@ -70,8 +69,7 @@ function Features() {
           <div className="icon">💬</div>
           <h3>Omnichannel Hub</h3>
           <p>
-            Manage WhatsApp, Instagram, Facebook,
-            and more from one place.
+            Manage customer interactions across WhatsApp, Facebook, Instagram, and more from a single, powerful, unified workspace for efficient collaboration and faster response times.
           </p>
         </div>
 
@@ -79,8 +77,7 @@ function Features() {
           <div className="icon">⚡</div>
           <h3>Workflow Automation</h3>
           <p>
-            Automate repetitive tasks and customer
-            journeys.
+            Simplify operations by automating repetitive tasks, managing broadcast templates, and streamlining business workflows to deliver seamless customer experiences.
           </p>
         </div>
 
@@ -88,8 +85,7 @@ function Features() {
           <div className="icon">📊</div>
           <h3>Advanced Analytics</h3>
           <p>
-            Gain insights and improve customer
-            engagement.
+            Track customer engagement, sentiment, and performance with real-time insights to improve satisfaction and deliver exceptional customer experiences.
           </p>
         </div>
 
